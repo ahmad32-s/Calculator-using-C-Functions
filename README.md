@@ -1,1 +1,1 @@
-# Calculator-using-C-Functions
+# Calculator-using-C++-Functions
